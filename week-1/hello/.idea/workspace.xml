@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/Birthday.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/DiscreteDistribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/DiscreteDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/Minesweeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/Minesweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/ThueMorse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/ThueMorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/arrays.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arrays/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/ActivationFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/ActivationFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/AudioCollage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/AudioCollage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/CREDITS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/Divisors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/Divisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/PlayThatNote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/PlayThatNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/beatbox.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/buzzer.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/chimes.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/cow.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/dialup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/exposure.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/functions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/harp.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/piano.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/scratch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/silence.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/singer.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMYKtoRGB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMYKtoRGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreatCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreatCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloGoodbye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RightTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Checkerboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Checkerboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/DiscreteDistribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/DiscreteDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/PlotFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/PlotFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Rose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/ShannonEntropy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/ShannonEntropy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/SnakeEater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/SnakeEater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/USA-t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/WorldMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/WorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/biased-coin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/fair-coin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/hilbert6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/india.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/io.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/io.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/letters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/loaded-die.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/roshambo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/russia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/shapes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/square.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/triangle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa-all-counties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ak.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-al.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-all-counties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-az.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ca.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-co.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-dc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-de.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-fl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ga.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-il.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ky.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-la.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ma.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-md.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-mi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-mn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-mo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-mt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-nv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ny.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-oh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ok.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-or.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-pa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ri.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-sc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-sd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-tn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-tx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-ut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-va.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-vt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-wa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-wi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-wv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa-wy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/usa/usa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world-low-resolution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/andorra.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/angola.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/armenia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/australia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bahamas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bahrain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bangladesh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/belarus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/belgium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bhutan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bolivia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bosnia-herzegovina-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bosnia-herzegovina-2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/botswana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/brazil.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/brunei-darussalam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/bulgaria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/burkina-faso.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/burundi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/cameroon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/canada.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/cape-verde.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/central-african-republic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/chad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/chile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/china.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/colombia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/congo-dr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/congo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/costa-rica.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/croatia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/cuba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/cyprus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/czech-republic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/denmark.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/djibouti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/dominican-republic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/ecuador.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/egypt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/el-salvador.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/estonia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/faroeIslands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/finland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/france-departments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/france.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/georgia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/germany.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/greece.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/guatemala.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/guinea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/haiti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/honduras.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/hong-kong.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/hungary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/iceland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/india.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/indonesia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/iran.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/iraq.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/ireland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/israel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/italy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/jamaica.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/japan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/kazakhstan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/kenya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/kosovo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/kyrgyzstan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/laos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/latvia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/liechtenstein.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/lithuania.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/luxembourg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/macedonia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/malaysia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/mali.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/malta.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/mexico.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/moldova.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/montenegro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/morocco.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/myanmar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/nepal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/netherlands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/new-zealand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/nicaragua.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/nigeria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/norway.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/oman.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/pakistan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/panama.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/paraguay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/philippines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/poland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/portugal-regions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/portugal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/qatar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/romania.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/russia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/rwanda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/san-marino.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/saudi-arabia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/serbia-without-kosovo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/serbia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/singapore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/slovakia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/slovenia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/south-africa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/south-korea.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/spain-provinces.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/spain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/sri-lanka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/sweden.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/switzerland.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/syria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/taiwan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/tajikistan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/thailand.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/turkey.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/uganda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/ukraine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/united-arab-emirates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/united-kingdom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/uruguay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/uzbekistan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/venezuela.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/vietnam.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/world-low-resolution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/world.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/yemen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/world/zambia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/BandMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/BandMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/GeneralizedHarmonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/GeneralizedHarmonic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/Q45.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/Q45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/inspectionProfiles/COS_126.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/inspectionProfiles/COS_126.xml.2020.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/libraries/introcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/introcs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.lift/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/Computer Science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/logo.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GreatCircle.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelloGoodbye.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RightTriangle.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CMYKtoRGB.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelloWorld.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="106" />
+    <option name="y" value="23" />
+    <option name="width" value="938" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectId" id="21haBjrMfAQV40MgQkd8s3DUg5T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <showLibraryContents PackagesPane="false" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType Scope="true" PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../performance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.CMYKtoRGB">
+    <configuration name="CMYKtoRGB" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CMYKtoRGB" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="0.0 0.4392156862745098 1.0 0.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GreatCircle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GreatCircle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="40.35 74.65 48.87 -2.33 " />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloGoodbye" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="Kevin Bob" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RightTriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RightTriangle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="-3 4 -5" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1648230630487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648230630487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="106" y="23" width="938" height="765" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32825485" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+</project>
